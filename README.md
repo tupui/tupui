@@ -12,7 +12,7 @@ I am Pamphile Roy, an AI developer. I like to learn new things and share.
 
 ### 🔭 Currently focusing on...</strong>
 
-<a href="https://github.com/tupui/apophis"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=tupui&repo=apophis" alt="apophis" height=100> </a> <a href="https://github.com/scipy/scipy/pull/10844"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=tupui&repo=scipy" alt="scipy" height=100> </a>
+<a href="https://github.com/tupui/apophis"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=tupui&repo=apophis" alt="apophis" height=100> </a> <a href="https://github.com/scipy/scipy"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=tupui&repo=scipy" alt="scipy" height=100> </a>
 
 And some smaller things:
 
