@@ -10,16 +10,18 @@
 
 I am Pamphile Roy, an AI developer. I like to learn new things and share.
 
-### 🔭 Currently focusing on...</strong>
+### 🔭 What I do here...</strong>
+I am SciPy core-developer. I also play around:
 
-<a href="https://github.com/tupui/apophis"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=tupui&repo=apophis" alt="apophis" height=100> </a> <a href="https://github.com/scipy/scipy"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=tupui&repo=scipy" alt="scipy" height=100> </a>
+<a href="https://github.com/tupui/apophis"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=tupui&repo=apophis" alt="apophis" height=100> </a> <a href="https://github.com/tupui/3D-Kiviat"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=tupui&repo=3D-Kiviat" alt="3D-Kiviat" height=100> </a>
 
 And some smaller things:
 
 * [Sobol' sampling convergence](https://gist.github.com/tupui/fb6e219b1dd2316b7498ebce231bfff5)
 * [Random sampling analysis using Benford's law](https://gist.github.com/tupui/0cedc8592154b2a616a1548a968bbd9b)
+* [Quantile dotplot](https://gist.github.com/tupui/c8dd181fd1e732584bbd7109b96177e3)
 
 ### 📫 How to reach me
 
-Shoot me a message via linkedIn or e-mail (should be easy to find). Or better,
+Shoot me a message via linkedIn, twitter (@PamphileRoy) or e-mail (should be easy to find). Or better,
 create an [issue](https://github.com/tupui/tupui/issues)!
