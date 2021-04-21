@@ -11,7 +11,7 @@
 I am Pamphile Roy, an AI developer. I like to learn new things and share.
 
 ### 🔭 What I do here...</strong>
-I am SciPy core-developer. I also play around:
+I am a SciPy core-developer. I also play around:
 
 <a href="https://github.com/tupui/apophis"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=tupui&repo=apophis" alt="apophis" height=100> </a> <a href="https://github.com/tupui/3D-Kiviat"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=tupui&repo=3D-Kiviat" alt="3D-Kiviat" height=100> </a>
 
