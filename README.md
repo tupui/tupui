@@ -4,7 +4,7 @@
 <a href="https://www.buymeacoffee.com/tupui"><img height="20" src="./icons/coffee.svg" alt=""/></a>
 <a href="https://www.linkedin.com/in/tupui/"><img height="20" src="./icons/linkedin.svg" alt=""/></a>
 <img src="https://img.shields.io/badge/build-running-orange" height="20" alt="build: running"/>
-<img src="https://img.shields.io/badge/Pronouns-He%2FHis-blue" height="20" alt="Pronouns: He/His"/> 
+<img src="https://img.shields.io/badge/Pronouns-He%2FHis-blue" height="20" alt="Pronouns: He/Him"/> 
 <img src="https://img.shields.io/badge/%F0%9F%94%A7 Editor-PyCharm-green" height="20" alt="Editor: PyCharm"/>
 </p>
 
@@ -23,5 +23,5 @@ And some smaller things:
 
 ### 📫 How to reach me
 
-Shoot me a message via linkedIn, twitter (@PamphileRoy) or e-mail (should be easy to find). Or better,
+Shoot me a message via linkedIn, twitter or e-mail (should be easy to find). Or better,
 create an [issue](https://github.com/tupui/tupui/issues)!
