@@ -8,7 +8,7 @@
 <img src="https://img.shields.io/badge/%F0%9F%94%A7 Editor-PyCharm-green" height="20" alt="Editor: PyCharm"/>
 </p>
 
-I am Pamphile Roy, an AI developer. I like to learn new things and share.
+I am Pamphile Roy, an AI/Backend Engineer working at iTranslate. I like to learn new things and share.
 
 ### 🔭 What I do here...</strong>
 I am a SciPy core-developer. I also play around:
