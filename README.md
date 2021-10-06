@@ -9,10 +9,10 @@
 <img src="https://img.shields.io/badge/%F0%9F%94%A7 Editor-PyCharm-green" height="20" alt="Editor: PyCharm"/>
 </p>
 
-I am Pamphile Roy, an AI/Backend Engineer working at [iTranslate](https://itranslate.com/). I like to learn new things and share.
+I am Pamphile Tupui Roy, an AI/Backend Engineer working at [iTranslate](https://itranslate.com/). I like to learn new things and share (using MIT most of the time).
 
 ### 🔭 What I do here...</strong>
-I am a SciPy core-developer. I also play around:
+I am a [SciPy](https://github.com/scipy/scipy) core-developer. I also play around:
 
 <a href="https://github.com/tupui/apophis"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=tupui&repo=apophis" alt="apophis" height=100> </a> <a href="https://github.com/tupui/3D-Kiviat"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=tupui&repo=3D-Kiviat" alt="3D-Kiviat" height=100> </a>
 
