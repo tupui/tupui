@@ -9,10 +9,13 @@
 <img src="https://img.shields.io/badge/%F0%9F%94%A7 Editor-PyCharm-green" height="20" alt="Editor: PyCharm"/>
 </p>
 
-I am Pamphile Tupui Roy, a Software Engineer working at [Quansight](http://quansight.com/). I am an OSS advocate and share my work here (using MIT most of the time).
+I am Pamphile Tupui Roy, a Software Engineer. I am an OSS advocate and share my work here (using MIT most of the time).
 
 ### 🔭 What I do here...</strong>
-I am a [SciPy](https://github.com/scipy/scipy) core-developer. I also play around:
+I am a [SciPy](https://github.com/scipy/scipy) and [SALib](https://github.com/salib/salib) core maintainer,
+member of the Scientific Python Steering committee and on multiple NumFOCUS committee.
+
+I also play around:
 
 <a href="https://github.com/tupui/apophis"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=tupui&repo=apophis" alt="apophis" height=100> </a> <a href="https://github.com/tupui/3D-Kiviat"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=tupui&repo=3D-Kiviat" alt="3D-Kiviat" height=100> </a>
 
