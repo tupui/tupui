@@ -9,7 +9,7 @@
 <img src="https://img.shields.io/badge/%F0%9F%94%A7 Editor-PyCharm-green" height="20" alt="Editor: PyCharm"/>
 </p>
 
-I am Pamphile Tupui Roy, a Software Engineer. I am an OSS advocate and share my work here (using MIT most of the time).
+I am Pamphile Tupui Roy, a Senior Software Engineer. I am an OSS advocate and share my work here (using MIT most of the time).
 
 ### 🔭 What I do here...</strong>
 I am a [SciPy](https://github.com/scipy/scipy) and [SALib](https://github.com/salib/salib) core maintainer,
